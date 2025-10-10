@@ -158,20 +158,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" width="100%" alt="GitHub Snake Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HembenDev&bg_color=0d1117&color=ffffff&line=ff4ecd&point=ff90e8&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="assets/wave.svg" alt="wave footer" width="100%" />
-</p>
-
-
-
 
 <!-- 🐍 Contribution Snake -->
 <picture>
