@@ -35,7 +35,7 @@
 <!-- ===================== ABOUT + AVATAR ===================== -->
 <p align="center">
   <!-- Replace `assets/avatar.gif` with a small avatar GIF (120x120) for animation; if none, use a static PNG -->
-  <img src="assets/avatar.gif" width="120" style="border-radius:60px; margin-right:12px; vertical-align:middle;" alt="avatar" />
+  <img src="assets/data GIF.gif" width="120" style="border-radius:60px; margin-right:12px; vertical-align:middle;" alt="avatar" />
   <span style="font-size:18px; vertical-align:middle;">
     I turn data into decisions — building ML pipelines, dashboards, and reproducible analytics for real-world impact.
   </span>
@@ -51,16 +51,15 @@
 
 ---
 
-## 🚀 Featured Projects (with animated previews)
-> Upload short 3–6s GIF previews to `assets/` and replace the names below for live previews.
+## 🚀 Featured Projects
+
 
 | Project | Preview | Short description |
 |-------:|:-------:|:------------------|
-| **House Price Predictor** | <img src="assets/house_pred_preview.gif" width="240" alt="house-pred" /> | Regression pipeline, EDA, feature engineering, SHAP explainability, deployed with Streamlit. |
-| **University Dashboard** | <img src="assets/uni_dash_preview.gif" width="240" alt="uni-dash" /> | Interactive Plotly dashboard for departmental analytics and visual storytelling. |
-| **AI Construction Analytics** | <img src="assets/construction_eda.gif" width="240" alt="const-eda" /> | Cost estimation & sustainability forecasting using ML experiments and notebooks. |
+| **House Price Predictor** | <img src="assets/Coding Artificial Intelligence GIF by Butlerm.gif" width="240" alt="house-pred" /> | Regression pipeline, EDA, feature engineering, SHAP explainability, deployed with Streamlit. |
+| **University Dashboard** | <img src="assets/newplot.png" width="240" alt="uni-dash" /> | Interactive Plotly dashboard for departmental analytics and visual storytelling. |
+| **AI Construction Analytics** | <img src="assets/download.png" width="240" alt="const-eda" /> | Cost estimation & sustainability forecasting using ML experiments and notebooks. |
 
-> *(If you don't have GIFs yet, replace `assets/*.gif` with static PNGs or remove the `<img>` tag.)*
 
 ---
 
