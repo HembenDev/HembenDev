@@ -122,13 +122,54 @@
 </p>
 
 ---
+<h2 align="center">🔗 Quick Links</h2>
 
-## 🔗 Quick Links
-- 🔭 Projects: (pin your top 4 in profile)  
-- 📝 Blog / Articles: *(add link if you have one)*  
-- 🧾 Resume: *(add link if you want to display it)*
+<p align="center"><i>Explore my work and projects in Machine Learning, Artificial Intelligence, and Smart Infrastructure.</i></p>
 
----
+<div align="center">
+
+  <a href="https://github.com/HembenDev/EcoMap" target="_blank">
+    <img src="https://img.shields.io/badge/EcoMap🌍-Smart%20Waste%20&%20Pollution%20Platform-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="EcoMap"/>
+  </a>
+  
+  <a href="https://github.com/HembenDev/AI-Cost-Optimizer" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Cost%20Optimizer🤖-Smart%20City%20Cost%20Analysis-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Cost Optimizer"/>
+  </a>
+  
+  <a href="https://github.com/HembenDev/Infrastructure-Insight" target="_blank">
+    <img src="https://img.shields.io/badge/Infrastructure%20Insight📊-Urban%20Analytics%20Dashboard-9400D3?style=for-the-badge&logo=python&logoColor=white" alt="Infrastructure Insight"/>
+  </a>
+  
+  <a href="https://github.com/HembenDev/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio💻-Personal%20Showcase-DA70D6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://medium.com/@HembenDev" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Blog%20/Articles-AI%20%7C%20ML%20%7C%20Smart%20Infrastructure-FF00FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+  </a>
+  
+  <a href="https://github.com/HembenDev/HembenDev/blob/main/assets/Jeremiah_Hemben_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🧾%20Resume-View%20My%20CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" width="100%" alt="GitHub Snake Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HembenDev&bg_color=0d1117&color=ffffff&line=ff4ecd&point=ff90e8&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="assets/wave.svg" alt="wave footer" width="100%" />
+</p>
+
 
 
 
