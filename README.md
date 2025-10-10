@@ -75,10 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HembenDev&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Contribution activity graph (service) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=HembenDev&theme=react-dark" width="100%" alt="contribution graph" />
-</p>
+![Jeremiah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HembenDev&bg_color=0d1117&color=ffffff&line=ff4ecd&point=ff90e8&area=true&hide_border=true)
+
 
 <p align="center">
   <!-- Visitor counter -->
@@ -148,6 +146,5 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" />
 </picture>
 
-![Jeremiah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HembenDev&bg_color=0d1117&color=ffffff&line=ff4ecd&point=ff90e8&area=true&hide_border=true)
 
 
