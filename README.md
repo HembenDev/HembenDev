@@ -130,14 +130,7 @@
 
 ---
 
-<!-- ===================== FOOTER WAVE (SVG) ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anupam-Datta/awesome-github-profile-readme/master/images/wave.svg" alt="wave" style="max-width:100%;"/>
-</p>
 
-<p align="center">
-  <sub>Made with 💡 • AI • Machine Learning • Data Science — <strong>HembenDev</strong></sub>
-</p>
 
 <!-- 🐍 Contribution Snake -->
 <picture>
@@ -145,6 +138,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" />
 </picture>
+
+<!-- ===================== FOOTER WAVE (SVG) ===================== -->
+<p align="center">
+  <img src="assets/svg.svg" alt="wave footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Made with 💡 • AI • Machine Learning • Data Science — <strong>HembenDev</strong></sub>
+</p>
+
 
 
 
