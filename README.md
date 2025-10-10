@@ -148,3 +148,6 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/HembenDev/HembenDev/output/github-snake.svg" />
 </picture>
 
+![Jeremiah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HembenDev&bg_color=0d1117&color=ffffff&line=ff4ecd&point=ff90e8&area=true&hide_border=true)
+
+
