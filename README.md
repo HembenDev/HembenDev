@@ -1,7 +1,7 @@
 <!-- ===================== HERO / ANIMATED BANNER ===================== -->
 <p align="center">
   <!-- Replace `assets/banner.gif` with your uploaded banner GIF (1200x300 recommended) -->
-  <img src="assets/banner.gif" alt="Jeremiah Hemben — AI • ML • Data Science" style="max-width:100%;border-radius:8px;" />
+  <img src="assets/artificial intelligence futurism GIF.gif" alt="Jeremiah Hemben — AI • ML • Data Science" style="max-width:100%;border-radius:8px;" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
